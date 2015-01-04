@@ -47,7 +47,7 @@ var about = '\
                             </li>\
                             <li>Judged for the Focus on Creative Inquiry poster forum at Clemson University.\
                             </li>\
-                            <li>Researching error estimates for time-dependent fluid-structure interaction.\
+                            <li>Researched error estimates for time-dependent fluid-structure interaction.\
                             </li>\
                         </ul>\
                     </p>\
@@ -62,13 +62,13 @@ var about = '\
                 <div class="panel-body">\
                     <p>\
                         <ul>\
-                            <li>Currently researching the formulation of fluid-structure interaction in an optimal control setting.\
+                            <li>Researched the formulation of fluid-structure interaction in an optimal control setting.\
                             </li>\
-                            <li>Summer NREIP participant for the Office of Naval Research.\
+                            <li>Summer NREIP participant for the Office of Naval Research in Washington, DC.\
                             </li>\
                             <li>Performed research on fluid-structure interaction.\
                             </li>\
-                            <li>Completed PhD qualifying exams.\
+                            <li>Completed Ph.D. qualifying exams.\
                             </li>\
                         </ul>\
                     </p>\
@@ -83,13 +83,13 @@ var about = '\
                             <ul>\
                                 <li>Married July 21st, 2012\
                                 </li>\
-                                <li>Researching under the guidance of Dr. Hyesuk Lee\
+                                <li>Researched under the guidance of Dr. Hyesuk Lee\
                                 </li>\
-                                <li>Teaching two MathSc 207 courses\
+                                <li>Taught two MathSc 207 courses\
                                 </li>\
                                 <li>Received Master of Science Degree from Clemson University\
                                 </li>\
-                                <li>Had a paper on Voigt regularization of incompressible MHD and NSE           flows published.\
+                                <li>Had a paper on Voigt regularization of incompressible MHD and NSE flows published.\
                                 </li>\
                             </ul>\
                         </p>\
@@ -118,7 +118,7 @@ var about = '\
                                 <li>Engaged to be married to Denise Langer\
                                 </li>\
                                 <li>Graduated with a B.S. Mathematics from Clarion University, PA                       </li>\
-                                <li>Enrolled in the Phd. tract mathematics program at Clemson         University, South Carolina. \
+                                <li>Enrolled in the Ph.D. tract mathematics program at Clemson         University, South Carolina. \
                                 </li>\
                             </ul>\
                         </p>\
