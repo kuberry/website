@@ -7,12 +7,37 @@ var about = '\
         <div class="col-sm-6">\
           <div class="panel panel-info">\
                 <div class="panel-heading">\
+                  <h3 class="panel-title">2015</h3>\
+                </div>\
+                <div class="panel-body">\
+                    <p>\
+                        <ul>\
+                            <li>Attending SIAM-CSE in March.\
+                            </li>\
+                            <li>Took up skiing as a hobby. So far my wife and I have skied Sipapu and Santa Fe.\
+                            </li>\
+			    <li>Completing the remainder of Ph.D. dissertation for Clemson University remotely from Albuquerque, NM.\
+                            </li>\
+                        </ul>\
+                    </p>\
+                </div>\
+          </div>\
+          <div class="panel panel-info">\
+                <div class="panel-heading">\
                   <h3 class="panel-title">2014</h3>\
                 </div>\
                 <div class="panel-body">\
                     <p>\
                         <ul>\
-			    <li>Training for the Tough Mudder in Atlanta, GA.\
+			    <li>Participated in the IMA Special Workshop Structure-Preserving Discretizations of Partial Differential Equations and the Finite Element Circus. \
+                            </li>\
+			    <li>Converted to year round student intern. \
+                            </li>\
+			    <li>Worked for for Sandia National Laboratories as a summer student intern.\
+                            </li>\
+			    <li>Attended and gave a talk at the SIAM annual meeting in Chicago, IL.\
+                            </li>\
+			    <li>Completed the Tough Mudder in Atlanta, GA.\
                             </li>\
                             <li>Attended SIAM Southeast Meeting (SIAM-SEAS) 2014 in Melbourne, FL.\
                             </li>\
@@ -28,7 +53,9 @@ var about = '\
                     </p>\
                 </div>\
             </div>\
-          <div class="panel panel-info">\
+            </div><!-- /.col-sm-4 -->\
+            <div class="col-sm-6">\
+            <div class="panel panel-info">\
                 <div class="panel-heading">\
                   <h3 class="panel-title">2013</h3>\
                 </div>\
@@ -47,8 +74,6 @@ var about = '\
                     </p>\
                 </div>\
             </div>\
-            </div><!-- /.col-sm-4 -->\
-            <div class="col-sm-6">\
             <div class="panel panel-info">\
                     <div class="panel-heading">\
                       <h3 class="panel-title">2012</h3>\
