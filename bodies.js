@@ -107,6 +107,7 @@ var research =
 '<h1>Papers</h1> \
 <div class="contentText"> \
 <p> \
+P. Kuberry, H. Lee, <b>Convergence of a fluid-structure interaction problem decoupled by a Neumann control over a single time-step</b>, Submitted 2014.<br><br> \
 P. Kuberry, H. Lee, <b>Analysis of a fluid-structure interaction problem recast in an optimal control setting</b>, Submitted 2014.<br><br>\
 \
 P. Kuberry, H. Lee, <b>A decoupling algorithm for fluid-structure interaction problems based on optimization</b>, <i>Computer Methods in Applied Mechanics and Engineering</i>, 267 (2013) 594-605.<br> doi: 10.1016/j.cma.2013.10.006. <a href="http://www.sciencedirect.com/science/article/pii/S0045782513002582">Download</a><br><br> \
@@ -121,6 +122,9 @@ P. Kuberry, A. Larios, L. Rebholz, N. Wilson, <b>Numerical approximation of the 
 <h1>Projects</h1>\
 <div class="contentText">\
 <p>\
+<strong><em>Derivative Free Optimization by a Hybridization of Methods</em></strong>:: March 2011 - April 2012<br>\
+A version of the BLX-Alpha genetic algorithm is hybridized with the Nelder-mead local search method. The hybrid is created by a relay implementation between the genetic algorithm and Nelder-Mead when stalling is detected. BLX-Alpha, Nelder-Mead, and the hybrid of the two are then tested on two classical engineering problems as well as on an experimental extrusion filter design. Numerical results are compared with known optimal solutions for the engineering problems and with previously published results for the multilayer extrusion filter design.\
+<br><br>\
 <strong><em>Immersed Interface Boundary Method</em></strong>:: May 2010 - August 2010<br>\
 This project focused on understanding the IIM method as well as creating a program to implement it in 2 and 3D. IIM is a second order accurate method of solving a Poisson Elliptic differential equation with possible discontinuities in both the first and second derivatives. It is superior to Peskin&#039;s Immersed Boundary method which is only first order accurate in most cases due to smoothing or smearing discontinuous sections.\
 <br><br>\
