@@ -1,26 +1,17 @@
 $(document).ready(function(){
-	$(".jumbotron").html(about);
+    var id = $(location).attr('pathname');
+    var urlRegex = /[^\/][a-zA-Z]*[.]html/;
 
-	// reselects the home list
-	$(".navbar-brand").click(function() {
-		$(".navbar-nav li").removeClass("active");
-		$("#home").addClass("active");
-	});
+    var result = id.match(urlRegex);
 
-	$(".navbar-nav li").click(function() {
-		$(".navbar-nav li").removeClass("active");
-		$(this).addClass('active');
-	});
-
-	$("a").click(function() {
-	var id = $(this).attr('href').substring(1);
-	if (id.length>0) {
-		$(".jumbotron").html(window[id]);
-		window.scrollTo(0,0);
-	} else {
-		$(".jumbotron").html(about);
-		window.scrollTo(0,0);
-	}
-});
-	
+    if (id.length>0) {
+    	if (result=='research.html') {
+    	    $('#research').addClass('active');
+    	} else {
+    	    $('#home').addClass('active');
+    	}
+    } else {
+    	$('#home').addClass('active');
+    }
+//    $('.jumbotron').html(result[0]);	
 });
